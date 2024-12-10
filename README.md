@@ -1,6 +1,6 @@
 # Calculator
 
-In this project, we will build a fully functional calculator using HTML, CSS, and JavaScript. This project is ideal for beginners learning JavaScript, as it covers how to create a user interface and add functionality using simple JavaScript code.
+Fully functional calculator using HTML, CSS, and JavaScript. 
 
 ## Features
 
